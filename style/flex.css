@@ -1,0 +1,19 @@
+.parent{
+    padding: 25px;
+    background-color: blanchedalmond;
+    display: flex;
+    gap: 30px;
+    justify-content:space-around;
+    height: 200px;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.child{
+    border: 2px solid yellowgreen;
+    background-color: rgb(228, 208, 247);
+    padding: 20px;
+    font-size: larger;
+    margin: 10px 0px;
+    /* display: inline; */
+}
